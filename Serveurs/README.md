@@ -15,6 +15,16 @@ Vous venez de pénétrer dans la salle de commandement.
 
 Vous devez réussir à vous connecter sur l'ordinateur du réseau Undercover. Mais comment trouver le mot de passe?
 
-Il semblerait que la sécurité informatique du réseau n'ait pas toujours été optimum chez Undercover et la procédure d' "unboarding" automatisée du scientifique n'a pas toujours été optimum.
+Il semblerait que la sécurité informatique du réseau n'ait pas toujours été optimum chez Undercover, et on trouve beaucoup de trace de code du scientifique sur internet. La réputation de la procédure d' "Onboarding" entièrement automatisée du scientifique n'est pas fameuse.
 
-Il faudrait vous faire passer pour un nouvel agent, et effectuer la procèdure d' Unboarding réservée aux nouveaux embauchés.
+Ne pourriez vous pas vous faire passer pour un nouvel agent, et effectuer la procèdure d' Onboarding réservée aux nouveaux embauchés? Mais où trouver l'application d' "Onboarding"? Comment le déployer?
+
+[INDICE 1]: https://undercovernetwork.github.io/indice1	"INDICE #1"
+
+[INDICE 2]: https://undercovernetwork.github.io/indice1	"INDICE #2"
+
+
+
+
+
+
