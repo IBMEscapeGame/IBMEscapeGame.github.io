@@ -19,11 +19,9 @@ Il semblerait que la sécurité informatique du réseau n'ait pas toujours été
 
 Ne pourriez vous pas vous faire passer pour un nouvel agent, et effectuer la procèdure d' Onboarding réservée aux nouveaux embauchés? Mais où trouver l'application d' "Onboarding"? Comment le déployer?
 
-[INDICE 1]: https://undercovernetwork.github.io/indice1	"INDICE #1"
+[INDICE 1](https://undercovernetwork.github.io/indice1/)
 
-[INDICE 2]: https://undercovernetwork.github.io/indice1	"INDICE #2"
-
-
+[INDICE 2](https://undercovernetwork.github.io/indice2/)
 
 
 
