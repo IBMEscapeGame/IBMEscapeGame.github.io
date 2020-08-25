@@ -10,11 +10,11 @@
 
 ### OBJECTIF DE LA MISSION : 
 
+Les pirates ont glissé dans le premier chapitre des misérables trois mots de code similaires
+Pour les retrouver, votre expert en data science et en text mining devra faire de la segmentation
+Heureusement, il peuvent utiliser le code python ci-dessous, issu de la bibliothèque secrète UNDERCOVER
 
-
-[INDICE 1](https://undercovernetwork.github.io/)
-
-[INDICE 2](https://undercovernetwork.github.io/)
+[INDICE](https://ibm.biz/BdqVpK/)
 
 
 
