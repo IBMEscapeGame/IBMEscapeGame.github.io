@@ -14,7 +14,7 @@ Les pirates ont glissé dans le premier chapitre des misérables trois mots de c
 Pour les retrouver, votre expert en data science et en text mining devra faire de la segmentation
 Heureusement, il peuvent utiliser le code python ci-dessous, issu de la bibliothèque secrète UNDERCOVER
 
-[INDICE](https://ibm.biz/BdqVpK/)
+[INDICE](https://ibm.biz/BdqVpK)
 
 
 
