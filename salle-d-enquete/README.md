@@ -21,6 +21,9 @@ Node-RED est une application Node.js qui vour servira ici d'environnement de dé
 Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "noded-red-decode-[numeroEquipe]". Ouvrez l'url de l'application.
 Utilisez les indices pour comprendre les éléments manquants à rajouter dans votre code node-red.
 
+L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
+L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom du réseau crimminel.
+
 [INDICE 1](https://undercovernetwork.github.io/salle-de-serveur/indice1/)
 
 [INDICE 2](hhttps://undercovernetwork.github.io/salle-de-serveur/indice2/)
