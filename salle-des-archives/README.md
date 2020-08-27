@@ -1,9 +1,9 @@
+# ![img](/assets/undercover.png)
+
 # Détection d'intrus
 
 Juste après votre arrivée au bureau, vous venez dans votre messagerie l'email suivant de votre manager marqué ***URGENT***.
 Vous avez 10 min pour le traiter et résoudre le problème.
-
-# ![img](/assets/undercover.png)
 
 ## <u>Email</u>
 
@@ -15,7 +15,7 @@ Notre équipe IT vous a exporté un fichier d'historique de connexion provenant 
 
 La situation étant sensible, les sites sont référencés par leurs noms de code: Alpha, Bravo, Charlie, Delta
 
-Il vous faudra ensuite saisir dans l'interface le nom du site considéré
+Il vous faudra ensuite saisir dans l'interface le nom du site considéré.
 
 Merci d'avance de votre discrétion
 
@@ -41,10 +41,10 @@ Les trames des différents sites à évaluer:
 
 ## Pour commencer
 
-Aller dans l'interface Watson Studio, les données ont été uploadés dans le projet **Network_Intrusion_XX**
+Aller dans l'interface Watson Studio, les données ont été uploadés dans le projet **Network_Intrusion_XX** 
 
 [Indice 1](https://github.com/vperrinfr/network_intrusion/blob/master/indice1.md)
 
 [Indice 2](https://github.com/vperrinfr/network_intrusion/blob/master/indice2.md)
 
-
+Bonne chance
