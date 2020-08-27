@@ -41,10 +41,8 @@ Les trames des différents sites à évaluer:
 
 ## Pour commencer
 
-Aller dans l'interface Watson Studio, les données ont été uploadés dans le projet **Network_Intrusion_XX** 
+Aller dans l'interface **[Watson Studio](https://dataplatform.cloud.ibm.com/)**, les données ont été uploadés dans le projet **Network_Intrusion** auquel vous avez invité.
 
 [Indice 1](https://github.com/vperrinfr/network_intrusion/blob/master/indice1.md)
 
 [Indice 2](https://github.com/vperrinfr/network_intrusion/blob/master/indice2.md)
-
-Bonne chance
