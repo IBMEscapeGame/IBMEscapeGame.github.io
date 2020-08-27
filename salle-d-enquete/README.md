@@ -15,10 +15,11 @@ Après avoir fouillé dans de nombreux documents classés secrets, vous finissez
 
 _Message à décoder:_ Iuyd hysxjywuh Dqcu yij Zuqd Tkhqd, uh mkhtu yd Qbrqdyud wurehud. Uh buytuj qd uyduh Ahqdaxuyj kdt muydj Rbkj. Uh xqj qksx uydu Dqhru qkv tuh bydaud Iuyju, tyu rbqk yij, mäxhudt iuyd husxjui Qkwu rhqkd yij. Uh yij uyd Cuyijuh tuh Cqjxucqjya kdt tui Isxqsxifyubi. Yd Zqcui Redt wuxöhj uh pk tud uydvbkiihuysxijud Cyjwbyutuhd tuh ahycydubbud, wuxuycud kdt ydjuhdqjyedqbud Ehwqdyiqjyed "Gkqdjkc", tuhud Vüxhuh kdjuh tuc Dqcud led Xuhhd Mxyju ruaqddj iydt. "Gkqdjkc" yij yd tuh Jqj uydu Juybkdw tuh cäsxjywud juhhehyijyisxud Wuiubbisxqvj "Ifusjhu". Iuyd Whüdtuh kdt Vüxhuh, Uhdij Ijqlhe Rbevubt, xäjju ydiwuxuyc tyuiud Sxqhqajuh rudkjpj, kc fiosxebewyisx Zqcui Redt, iuydud Qtefjylrhktuh, pk vebjuhd. Myu yij tuh Dqcu tyuiuh Fuhied yd tuh Zqcui-Redt-Iuhyu?
 
+Le nom du réseau est le résultat de l'enigme à décoder.
 
 ### Comment ?  
-A l'aide de l'outil de développement fourni "Node-RED" et préconfiguré, vous allez pouvoir rapidement décoder ce message.
-Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud.
+A l'aide de l'outil de développement fourni "Node-RED", préconfiguré pour vous, vous allez pouvoir rapidement décoder ce message.
+Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
 
 Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "escapegame-noded-red-decode-equipe[numeroEquipe]". Accédez à l'url de l'application.
 Utilisez les indices pour comprendre les éléments manquants à rajouter dans votre code node-red.
