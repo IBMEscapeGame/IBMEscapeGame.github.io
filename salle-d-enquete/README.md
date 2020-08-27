@@ -13,12 +13,13 @@ Vous vous situez dans la salle d’enquête de l’agence secrète. Votre object
 
 Après avoir fouillé dans de nombreux documents classés secrets, vous finissez par trouver un document avec du texte encodé. Ce document vous aidera sans aucun doute à identifier le nom du réseau criminel dont fait partie le hacker. Il vous faut donc décoder ce texte au plus vite !
 
-texte: Iuyd hysxjywuh Dqcu yij Zuqd Tkhqd, uh mkhtu yd Qbrqdyud wurehud. Uh buytuj qd uyduh Ahqdaxuyj kdt muydj Rbkj. Uh xqj qksx uydu Dqhru qkv tuh bydaud Iuyju, tyu rbqk yij, mäxhudt iuyd husxjui Qkwu rhqkd yij. Uh yij uyd Cuyijuh tuh Cqjxucqjya kdt tui Isxqsxifyubi. Yd Zqcui Redt wuxöhj uh pk tud uydvbkiihuysxijud Cyjwbyutuhd tuh ahycydubbud, wuxuycud kdt ydjuhdqjyedqbud Ehwqdyiqjyed "Gkqdjkc", tuhud Vüxhuh kdjuh tuc Dqcud led Xuhhd Mxyju ruaqddj iydt. "Gkqdjkc" yij yd tuh Jqj uydu Juybkdw tuh cäsxjywud juhhehyijyisxud Wuiubbisxqvj "Ifusjhu". Iuyd Whüdtuh kdt Vüxhuh, Uhdij Ijqlhe Rbevubt, xäjju ydiwuxuyc tyuiud Sxqhqajuh rudkjpj, kc fiosxebewyisx Zqcui Redt, iuydud Qtefjylrhktuh kdt Wuxuycqwudj tuh CY6 pk jehjkhyuhud. Myu bqkjuj tuh Dqcu tyuiuh Fuhied yd tuh Zqcui-Redt-Iuhyu?
+Message à décoder: Iuyd hysxjywuh Dqcu yij Zuqd Tkhqd, uh mkhtu yd Qbrqdyud wurehud. Uh buytuj qd uyduh Ahqdaxuyj kdt muydj Rbkj. Uh xqj qksx uydu Dqhru qkv tuh bydaud Iuyju, tyu rbqk yij, mäxhudt iuyd husxjui Qkwu rhqkd yij. Uh yij uyd Cuyijuh tuh Cqjxucqjya kdt tui Isxqsxifyubi. Yd Zqcui Redt wuxöhj uh pk tud uydvbkiihuysxijud Cyjwbyutuhd tuh ahycydubbud, wuxuycud kdt ydjuhdqjyedqbud Ehwqdyiqjyed "Gkqdjkc", tuhud Vüxhuh kdjuh tuc Dqcud led Xuhhd Mxyju ruaqddj iydt. "Gkqdjkc" yij yd tuh Jqj uydu Juybkdw tuh cäsxjywud juhhehyijyisxud Wuiubbisxqvj "Ifusjhu". Iuyd Whüdtuh kdt Vüxhuh, Uhdij Ijqlhe Rbevubt, xäjju ydiwuxuyc tyuiud Sxqhqajuh rudkjpj, kc fiosxebewyisx Zqcui Redt, iuydud Qtefjylrhktuh, pk vebjuhd. Myu yij tuh Dqcu tyuiuh Fuhied yd tuh Zqcui-Redt-Iuhyu?
 
-Avec l'aide d'un outil de développement fourni, vous pouvez rapidement arriver à décoder ce message.
+A l'aide de l'outil de développement fourni "Node-RED" et préconfiguré, vous pouvez rapidement arriver à décoder ce message.
+Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Vous pouvez "glisser-déposer" des nodes depuis la boite à outil de gauche sur l'espace de travail au centre. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud.
 
 Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "noded-red-decode-[numeroEquipe]". Ouvrez l'url de l'application.
-Utilisez les indices pour comprendre les éléments manquants à rajouter dasn votre flow node-red.
+Utilisez les indices pour comprendre les éléments manquants à rajouter dans votre code node-red.
 
 [INDICE 1](https://undercovernetwork.github.io/)
 
