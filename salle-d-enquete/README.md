@@ -22,8 +22,9 @@ A l'aide de l'outil de développement fourni "Node-RED", préconfiguré pour vou
 Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
 
 [Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "escapegame-noded-red-decode-equipe[numeroEquipe]". Accédez à l'url de l'application.]
+
 Utilisez les indices pour comprendre les éléments manquants à rajouter dans votre code node-red.
-- pour tester 2: 
+- pour tester le 28/08: 
 - https://node-red-test-august-2020.eu-gb.mybluemix.net
 - https://node-red-ppfgw.eu-de.mybluemix.net
 
