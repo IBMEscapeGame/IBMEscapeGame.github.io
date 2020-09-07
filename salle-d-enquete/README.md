@@ -21,7 +21,9 @@ Le nom du réseau est le résultat de l'enigme à décoder.
 A l'aide de l'outil de développement fourni "Node-RED", préconfiguré pour vous, vous allez pouvoir rapidement décoder ce message.
 Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
 
-Connectez-vous à votre compte IBM Cloud. Sur votre Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe : "Noded-RED-escapegame-equipe[numeroEquipe]". 
+Connectez-vous à votre compte IBM Cloud. 
+En cliquant sur le nom de votre compte, en haut à droite, remarquez que vous avez été invité à un autre compte, dasn le menu déroulant, cliquez sur "CLEMENCE LEBRUN's account" pour accéder aux ressources Node-RED qui vous ont été partégées.
+Sur le Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe : "Noded-RED-escapegame-equipe[numeroEquipe]". 
 Accédez à l'url de l'application en cliquant sur "Visit App URL". Puis "Go to your Node-RED flow editor".
 Votre coach vous fourni un id/mot de passe pour vous identifier.
 
