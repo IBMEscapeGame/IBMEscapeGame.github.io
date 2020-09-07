@@ -21,9 +21,11 @@ Le nom du réseau est le résultat de l'enigme à décoder.
 A l'aide de l'outil de développement fourni "Node-RED", préconfiguré pour vous, vous allez pouvoir rapidement décoder ce message.
 Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
 
-[Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "escapegame-noded-red-decode-equipe[numeroEquipe]". Accédez à l'url de l'application.]
+Connectez-vous à votre compte IBM Cloud. Sur votre Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe : "Noded-RED-escapegame-equipe[numeroEquipe]". 
+Accédez à l'url de l'application en cliquant sur "Visit App URL"
+Votre coach vous fourni un id/mot de passe pour vous identifier.
 
-
+Vous avez accès à deux indices pour vous aider à résoudre ce challenge !
 
 L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
 L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom du réseau crimminel.
