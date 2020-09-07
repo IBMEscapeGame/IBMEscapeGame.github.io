@@ -34,7 +34,7 @@ L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom
 
 [INDICE 1](https://undercovernetwork.github.io/salle-d-enquete/indice1/)
 
-[INDICE 2](hhttps://undercovernetwork.github.io/salle-d-enquete/indice2/)
+[INDICE 2](https://undercovernetwork.github.io/salle-d-enquete/indice2/)
 
 
 
