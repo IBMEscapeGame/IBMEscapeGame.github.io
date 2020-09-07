@@ -23,10 +23,6 @@ Node-RED est une application Node.js qui vour servira ici d'environnement de dé
 
 [Connectez-vous à votre compte IBM Cloud et accédez à l'application Node-RED : "escapegame-noded-red-decode-equipe[numeroEquipe]". Accédez à l'url de l'application.]
 
-Utilisez les indices pour comprendre les éléments manquants à rajouter dans votre code node-red.
-- pour tester le 28/08: 
-- https://node-red-test-august-2020.eu-gb.mybluemix.net (public)
-- https://node-red-ppfgw.eu-de.mybluemix.net  (test/testpwd06)
 
 
 L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
