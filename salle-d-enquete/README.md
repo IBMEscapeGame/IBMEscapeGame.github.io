@@ -33,7 +33,7 @@ Connectez-vous à votre compte IBM Cloud. Un seul membre de l'équipe doit se co
 1.  Sur le Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe. 
 1.  Accédez à l'url de l'application en cliquant sur "Visit App URL". Puis "Go to your Node-RED flow editor".
 1.  Identifiez-vous à l'application: username = "admin" ; password = "[nom de votre equipe]"
-1.  Une fois sur votre éditeur Node-RED, remplissez les étapes 1, 2 et 3 puis resolvez l'énigme pour trouver le nom du réseau ! Renseingez le ensuite sur la plateforme Ongame.
+1.  Une fois sur votre éditeur Node-RED, remplissez les étapes 1, 2 et 3 puis resolvez l'énigme pour trouver le nom du réseau ! Renseignez le ensuite sur la plateforme Ongame.
 
 [Connectez vous à votre compte IBM cloud pour démarrer ce challenge](https://cloud.ibm.com)
 
