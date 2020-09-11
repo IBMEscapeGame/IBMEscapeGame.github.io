@@ -19,18 +19,28 @@ Le nom du réseau est le résultat de l'enigme à décoder.
 
 ### Comment ?  
 A l'aide de l'outil de développement fourni "Node-RED", préconfiguré pour vous, vous allez pouvoir rapidement décoder ce message.
-Node-RED est une application Node.js qui vour servira ici d'environnement de développement. Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
+Node-RED est une application Node.js qui vour servira ici d'environnement de développement. 
 
-Connectez-vous à votre compte IBM Cloud: https://cloud.ibm.com
-En cliquant sur le nom de votre compte, en haut à droite, remarquez que vous avez été invité à un autre compte, dans le menu déroulant, cliquez sur "CLEMENCE LEBRUN's account" pour accéder aux ressources Node-RED qui vous ont été partégées.
-Sur le Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe. 
-Accédez à l'url de l'application en cliquant sur "Visit App URL". Puis "Go to your Node-RED flow editor".
-Votre coach vous fourni un id/mot de passe pour vous identifier.
+Aide avec Node-RED:
+* Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". 
+* Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. 
+* Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. 
+* Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
+
+### Accéder à votre application Node-RED :
+Connectez-vous à votre compte IBM Cloud. Un seul membre de l'équipe doit se connecter et manipuler.
+1.  En cliquant sur le nom de votre compte, en haut à droite, remarquez que vous avez été invité à un autre compte, dans le menu déroulant, cliquez sur "CLEMENCE LEBRUN's account" pour accéder aux ressources Node-RED qui vous ont été partégées.
+1.  Sur le Dashboard, affichez les "Cloud Foundry apps". Cliquez sur l'application Node-RED de votre équipe. 
+1.  Accédez à l'url de l'application en cliquant sur "Visit App URL". Puis "Go to your Node-RED flow editor".
+1.  Identifiez-vous à l'application: username = "admin" ; password = "[nom de votre equipe]"
+1.  Une fois sur votre éditeur Node-RED, remplissez les étapes 1, 2 et 3 puis resolvez l'énigme pour trouver le nom du réseau ! Renseingez le ensuite sur la plateforme Ongame.
+
+[Connectez vous à votre compte IBM cloud pour démarrer ce challenge](https://cloud.ibm.com)
 
 Vous avez accès à deux indices pour vous aider à résoudre ce challenge !
 
-L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
-L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom du réseau crimminel.
+* L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
+* L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom du réseau crimminel.
 
 [INDICE 1](https://undercovernetwork.github.io/salle-d-enquete/indice1/)
 
