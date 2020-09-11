@@ -23,8 +23,8 @@ Node-RED est une application Node.js qui vour servira ici d'environnement de dé
 
 Aide avec Node-RED:
 * Pour déclancher un flow, il suffit de cliquer sur le bouton de gauche du noeud "inject". 
-* Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. 
-* Toujours DEPLOYER (bouton rouge en haut à droite) pour valider vos modifications. 
+* Pour éditer le code d'un noeud en javascript, il faut double cliquer sur ce noeud. Pour valider vos modifications, cliquez sur "Done" en haut à droite de la fenêtre.
+* Toujours DEPLOYER (bouton rouge en haut à droite) pour valider votre flow. 
 * Les résultats des flows apparaissent dans la console "Debug" à droite de l'espace de travail dans Node-RED.
 
 ### Accéder à votre application Node-RED :
