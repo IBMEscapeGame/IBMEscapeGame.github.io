@@ -39,6 +39,8 @@ Les trames des différents sites à évaluer:
 
 - **Delta** : 0,"tcp","http","SF",277,4968,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13,13,0,0,0,0,1,0,0,13,255,1,0,0.08,0.01,0,0,0,0
 
+Attention au guillement "" lors de la copie !!!!!
+
 ## Pour commencer
 
 Aller dans l'interface **[Watson Studio](https://dataplatform.cloud.ibm.com/)**, les données ont été uploadés dans le projet **Network_Intrusion** auquel vous avez invité.
