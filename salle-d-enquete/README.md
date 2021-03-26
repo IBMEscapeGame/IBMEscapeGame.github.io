@@ -42,9 +42,9 @@ Vous avez accès à deux indices pour vous aider à résoudre ce challenge !
 * L'indice 1 vous permettra de trouver le key code pour décoder le message dans Node-RED.
 * L'indice 2 vous permettra de comprendre le message décodé et de trouver le nom du réseau crimminel.
 
-[INDICE 1](https://undercovernetwork.github.io/salle-d-enquete/indice1/)
+[INDICE 1](https://github.com/IBMEscapeGame/IBMEscapeGame.github.io/tree/master/salle-d-enquete/indice1)
 
-[INDICE 2](https://undercovernetwork.github.io/salle-d-enquete/indice2/)
+[INDICE 2](https://github.com/IBMEscapeGame/IBMEscapeGame.github.io/tree/master/salle-d-enquete/indice2)
 
 
 
